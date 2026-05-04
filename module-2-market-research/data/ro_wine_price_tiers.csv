@@ -1,0 +1,4 @@
+tier,price_range_ron,price_range_eur,volume_share_pct_est,value_share_pct_est
+Entry,<20,<4,67,37
+Mid-range,20-60,4-12,26,43
+Premium,>60,>12,7,20
