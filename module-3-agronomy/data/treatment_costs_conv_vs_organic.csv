@@ -1,0 +1,4 @@
+cost_category,conventional_eur_ha_yr_min,conventional_eur_ha_yr_max,organic_eur_ha_yr_min,organic_eur_ha_yr_max
+Plant protection products,250,400,300,500
+Additional labour (organic extra passes),0,0,100,150
+Total direct plant protection,250,450,400,650

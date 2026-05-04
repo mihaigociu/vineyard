@@ -1,0 +1,5 @@
+rank,disease,pathogen,risk_level_score_1_5,risk_label,key_driver,management
+1,Downy mildew,Plasmopara viticola,5,CRITICAL,May-June rainfall peak + susceptible variety,12-15 fungicide treatments/season; DSS recommended
+2,Grey rot / Botrytis,Botrytis cinerea,4,HIGH,Thin-skinned compact clusters; warm humid flowering,Leaf removal; fungicides at bloom + pre-harvest; harvest timing
+3,Powdery mildew,Erysiphe necator,3,MODERATE,Warm dry July-August; susceptible variety,Sulphur programme; standard management
+4,Esca trunk disease,Phaeomoniella spp.,3,MODERATE LONG-TERM,Vine age 10-25 yr = prime expression window,No curative treatment; wound sealants at pruning; visual survey urgently needed

@@ -1,0 +1,6 @@
+quality_level,yield_min_t_ha,yield_max_t_ha,wine_style,target_for_this_operation
+DOC-CIB (noble rot),1,3,Dessert; botrytised sweet,False
+DOC-CT (late harvest),3,5,Semi-sweet; demi-dulce,False
+DOC-CMD (full maturity),5,8,Dry; off-dry; demi-sec,True
+IG varietal,8,12,Commercial/industrial quality,False
+Non-DOC / maximum,12,15,Table wine; unacceptable for premium,False

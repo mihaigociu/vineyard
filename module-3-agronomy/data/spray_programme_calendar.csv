@@ -1,0 +1,9 @@
+treatment_num,phenological_stage,target_diseases,conventional_products,organic_alternatives,is_critical
+1,Dormancy/pre-budburst,"Excoriosis, anthracnose",Copper + oil (TMTD alternatives),Copper + vegetable oil,False
+2-3,Shoot growth 5-15 cm,"Downy mildew, powdery mildew",Mancozeb/folpet; sulphur,Copper; sulphur,False
+4-5,Shoot growth 15-30 cm,"Downy mildew, powdery mildew",Systemic DM (cymoxanil); sulphur,Copper; sulphur; potassium bicarb,False
+6-7,Pre-bloom / inflorescence,"DM, PM, early botrytis",Contact+systemic combo; switch/rovral,Copper; sulphur; Bacillus subtilis,True
+8-9,Full bloom / post-bloom,"DM, PM, botrytis on inflorescences",Copper; fenhexamid or cyprodinil; sulphur,Copper (within 4kg limit); Bacillus subtilis; sulphur,True
+10-11,Berry growth (pea-size to closure),"DM, PM, botrytis",Alternating chemistry (resistance mgmt),Copper; sulphur; Trichoderma,False
+12-13,Bunch closure to veraison,"DM, botrytis (pre-harvest)",Respect PHI; reduce systemics,Copper; potassium bicarb,False
+14,Veraison (optional),Late botrytis,Biostimulants preferred,Bacillus subtilis; kaolin,False
