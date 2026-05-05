@@ -1,0 +1,4 @@
+chiller_size_tons,chiller_kw,new_price_min_eur,new_price_max_eur,used_price_min_eur,used_price_max_eur,suitable_for,recommended_phase
+5,18,8000,15000,4000,8000,Year 1 bridging; 2-3 simultaneous tanks,1
+10,35,18000,30000,6000,12000,Main operation; 5-6 simultaneous tanks,2
+15,53,28000,45000,10000,18000,Full capacity + cold stab simultaneously,2

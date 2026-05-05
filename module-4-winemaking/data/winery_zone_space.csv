@@ -1,0 +1,9 @@
+zone,area_min_m2,area_max_m2,notes
+Reception / crush pad,40,60,Covered canopy; forklift access essential
+Press room,25,40,Press body + juice trough + hose routing
+Fermentation room,80,150,Dominant zone; glycol-jacketed tanks require aisle clearance
+Aging / storage cellar,60,100,Tank storage; barrel program if any
+Bottling area,20,40,Can share with storage when not in use
+Laboratory,8,15,Bench + water + ventilation
+Cleaning / utility room,10,20,"CIP, chemical storage, compressed air"
+Cold stabilisation room,0,30,Integrated into ferm room if jackets reach -5°C

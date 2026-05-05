@@ -1,0 +1,6 @@
+method,aroma_stripping,capex_min_eur,capex_max_eur,suitable_for_this_scale,recommended,notes
+Cold static settling (debourbage),None,0,0,True,True,Post-pressing gross clarification; no equipment beyond cold tank
+Plate-and-frame pad filter,Low,1500,4000,True,True,Rough/polishing pre-bottling; 50-100 hl per pad change
+0.45 micron sterile membrane cartridge,Minimal,200,500,True,True,Inline before bottling valve; €50-150 per cartridge run
+Diatomaceous earth (DE) leaf filter,Low,3000,8000,True,False,Economic but creates DE waste stream; not necessary at this scale
+Cross-flow membrane filtration,Minimal,20000,40000,False,False,"Justified above 1,000 hl/year; not warranted at this scale"

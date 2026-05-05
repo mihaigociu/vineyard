@@ -1,0 +1,7 @@
+brand,model,capacity_hl,new_price_min_eur,new_price_max_eur,inert_gas,notes
+Bucher Vaslin,XPro 20 hl,20,18000,28000,False,Standard commercial entry; widely distributed
+Bucher Vaslin,Inertys XPro 40 hl,40,35000,55000,True,Premium inert-gas pressing; best for aromatics
+Della Toffola / Pera,Smart Press 20 hl,20,15000,25000,False,Competitive pricing; Italian
+Enoveneta,PPC 20,20,12000,20000,False,Closed cage; reliable; Eastern European distribution
+Speidel,Water bladder 20 hl,20,8000,15000,False,German; proven; no inert gas option
+Used (any brand),10-25 hl,20,4000,12000,False,"Via Arsilac, Vinimat, Agriaffaires; 40-60% of new"

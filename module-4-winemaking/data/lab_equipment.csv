@@ -1,0 +1,14 @@
+equipment,in_house_or_outsource,cost_min_eur,cost_max_eur,use_case,when_needed
+Handheld digital refractometer,In-house,50,200,Brix at harvest and pre-ferment,Daily during harvest
+Benchtop pH meter (Hanna HI5521),In-house,200,600,pH at all stages,Throughout season
+SO2 mini-titrator (Hanna HI84500),In-house,200,1100,Free and total SO2,Post-ferment and pre-bottling
+"TA titration kit (NaOH, manual)",In-house,50,600,Titratable acidity in must and wine,Throughout season
+Glass hydrometer set,In-house,20,500,Residual sugar during fermentation,Daily during ferment
+Calibrated thermometer,In-house,30,100,Tank temperatures,Throughout season
+"Lab glass (burettes, flasks, pipettes)",In-house,200,500,All analyses,Throughout season
+Basic microscope (optional),In-house,200,600,"Yeast cell counts, brett screening",During ferment
+YAN analysis (NOPA/SOPA enzymatic),Outsource,50,150,Yeast assimilable nitrogen per block,Pre-harvest
+Alcohol by volume (distillation method),Outsource,30,80,Label accuracy requirement,Pre-bottling each lot
+Complete microbiological screen,Outsource,80,200,"Total bacteria, LAB, brett",Pre-bottling each lot
+Nutritional declaration (EU label),Outsource,100,300,EU 2021/2117 label requirement,Once per wine style/vintage
+Pesticide residue screen,Outsource,200,500,Annual requirement for DOC certificate,Annual

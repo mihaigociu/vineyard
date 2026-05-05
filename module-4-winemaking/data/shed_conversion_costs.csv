@@ -1,0 +1,8 @@
+work_category,cost_eur_m2_min,cost_eur_m2_max,notes
+Structural shell / insulation,50,150,"Roof upgrade, wall insulation for temp control"
+Polyurethane mortar flooring,40,80,Including existing concrete prep; food-safe standard
+Internal walls / zone partitioning,30,60,Fermentation vs. storage vs. lab
+"Electrical (3-phase, IP-rated wet zones)",15,30,Including earthing
+Plumbing (hot/cold water + trench drains),20,40,ACO-type stainless trench drains
+Ventilation (CO2 extraction),10,25,Critical safety item for CO2 during fermentation
+ANSVSA-compliant finishes,10,20,"Ceiling coatings, door seals, pest screens"

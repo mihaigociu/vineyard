@@ -1,0 +1,6 @@
+strain,supplier,beta_glucosidase,temp_range_min_c,temp_range_max_c,nitrogen_needs,key_notes,recommended
+LALVIN QA23,Lallemand,High,10,28,Low,Top choice; widely available in Romania; ferments to dryness at 10°C; excellent for fresh aromatic whites,True
+Zymaflore VL1,Laffort,High,16,20,High,"Specifically recommended for Muscat, Riesling, Gewurztraminer; low VA production; premium aromatic expression",True
+LALVIN ICV D47,Lallemand,High,15,20,Low,High glycerol and polysaccharides for body; citrus and floral notes; good secondary choice,False
+SafOeno HD T18,Fermentis,High,14,20,Medium,Positioned specifically for terpenic white wines,False
+EnartisFerm Q9,Enartis,Medium-High,14,22,Medium,Good for aromatic whites; lower risk of SO2 production,False

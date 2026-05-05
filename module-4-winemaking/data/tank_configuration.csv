@@ -1,0 +1,6 @@
+capacity_hl,capacity_l,quantity,total_hl,price_new_min_eur,price_new_max_eur,price_per_hl_min,price_per_hl_max,purpose
+10,1000,2,20,1500,3000,150,300,"Trial batches, blending tests"
+20,2000,2,40,2500,4500,125,225,Reserve / late harvest selections
+30,3000,3,90,3500,6000,117,200,"Press fractions, special lots"
+50,5000,4,200,5000,9000,100,180,Main fermentation / bulk storage
+100,10000,1,100,8000,14000,80,140,Large-batch storage (Phase 2+)

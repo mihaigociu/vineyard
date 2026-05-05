@@ -1,0 +1,25 @@
+phase,year,item,cost_low_eur,cost_high_eur,priority,notes
+1,1,"Stainless tanks (6-8 units, variable cap, glycol jacket)",15000,28000,Critical,2x50hl + 2x30hl + 2x20hl; used from Letina/Marchisio dealer
+1,1,"Glycol chiller (5-ton, used or entry-level new)",5000,12000,Critical,Used EU brand preferred
+1,1,Glycol piping + control valves,2000,5000,Critical,Materials + installation
+1,1,Eccentric screw pump,1500,4000,High,Used Ragazzini or SRAML
+1,1,Crusher-destemmer,1500,3000,High,New entry-level roller type
+1,1,"Lab equipment (refractometer, pH, SO2 titrator, TA kit)",1500,3500,High,Hanna HI84500 + pH meter + basics
+1,1,Oenological inputs Year 1,1500,3000,Critical,"Yeast, enzymes, nutrients, SO2, fining agents"
+1,1,"Hoses, fittings, CIP equipment",1000,2500,High,Essential plumbing
+1,1,Press (cooperative pressing Year 1; own press Year 2),0,12000,Medium,Defer to Year 2 to free capital
+1,1,Contingency (10%),2900,7200,—,
+2,2,Shed conversion (200-300 m2),35000,70000,Critical,"ANSVSA registration; floor, drainage, electrics, ventilation"
+2,2,"Pneumatic press (20-25 hl, used)",8000,20000,High,Bucher/Pera/Enoveneta via Arsilac or Vinimat
+2,2,Grape reception hopper + screw conveyor,2000,5000,Medium,New entry-level
+2,2,Vibrating sorting table,2000,5000,Medium,Vibrating preferred for DOC quality signal
+2,2,Additional tanks (reach 450-500 hl total),5000,15000,High,3-4 additional units
+2,2,Semi-automatic bottling line (used filler+corker+labeller),6000,15000,Medium,Used from Vinimat/Enotools; or contract Year 2 buy Year 3
+2,2,ANSVSA compliance docs + HACCP plan,1000,3000,Critical,Technical documentation and inspection fees
+3,3,Pad filter + sterile membrane cartridge,2000,5000,High,Complete pre-bottling filtration
+3,3,Lab upgrade (Hanna HI901W wine titrator),1500,4500,Medium,"pH, TA, VA, SO2, RS in one instrument"
+3,3,Bottling line upgrade (new integrated semi-auto),12000,25000,Medium,If not purchased Year 2
+3,3,4-6 used neutral oak tonneaux (500 L) for Zgihara/reserve,1200,2700,Low,Used/neutral; Zghihara and reserve blend experiments only
+3,3,Tasting room / direct sales setup,5000,15000,Medium,High-margin channel
+3,3,"Branding, label design, website",3000,8000,High,One-time professional investment
+3,3,"Working capital (inputs + packaging 35,000 bottles)",15000,25000,Critical,"Bottles, corks, labels, capsules, cartons"
