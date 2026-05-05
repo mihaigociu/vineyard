@@ -1,0 +1,6 @@
+api,free_calls_per_day,commercial_cost,romania_coverage,historical_data,agro_variables,recommended
+Open-Meteo,"10,000/day",API key required for commercial use,True,40yr ERA5,"GDD, soil moisture, ET0, leaf wetness",True
+VisualCrossing,"1,000 records/day",$0.0001/record,True,1970-present,Standard; good historical,False
+MeteoBlue,"5,000 calls/year",Credit-based,True,Yes,Limited agro variables on free,False
+Meteomatics,None,Enterprise only,True,Yes,Full agro suite,False
+METOS FieldClimate,REST API,€300-600/yr (with station subscription),True,Yes,Full disease models built-in,False

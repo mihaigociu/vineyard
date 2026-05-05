@@ -1,0 +1,8 @@
+item,monthly_cost_eur_min,monthly_cost_eur_max,notes
+Digi fixed broadband (winery),8.0,12.0,100-500 Mbps cable/4G home broadband
+Digi IoT SIM (LoRa gateway 4G uplink),0.5,2.0,~150 MB/month sensor traffic
+Hetzner CX22 VPS,3.49,3.49,Germany; GDPR; off-site backup + remote relay
+Tailscale (remote access),0.0,0.0,"Free tier: 100 devices, 3 users"
+Open-Meteo weather data,0.0,0.0,"Free: 10,000 calls/day"
+CDSE Sentinel-2 satellite,0.0,0.0,"Free: 10,000 PU/month"
+Grafana OSS + Streamlit (self-hosted),0.0,0.0,Free open-source licences

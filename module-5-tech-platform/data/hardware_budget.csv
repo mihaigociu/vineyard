@@ -1,0 +1,14 @@
+item,qty,unit_price_eur,total_eur,tier,year,priority
+Davis Vantage Pro2 cabled ISS,1,575,575,1,1,High
+Davis Leaf & Soil Station,1,110,110,1,1,High
+iSpindel DIY kit (per fermentation tank),2,50,100,1,1,Critical
+"Beelink EQ12 mini-PC (16GB, 500GB NVMe)",1,165,165,1,1,Critical
+RAK7289CV2 outdoor LoRaWAN gateway,1,370,370,1,1,High
+Dragino LSE01 soil/VWC nodes,3,55,165,1,1,High
+APC Back-UPS 650 UPS,1,100,100,1,1,High
+Network switch + cables,1,50,50,1,1,Medium
+Annual IoT SIM + Hetzner VPS (annualised),1,57,57,1,1,Low
+Pessl iMETOS LoRAIN weather station,1,590,590,2,2,Medium
+Pessl FieldClimate subscription (annual),1,400,400,2,2,Medium
+DIY LoRa sensor nodes (additional x5),5,70,350,2,2,Medium
+iSpindel kits for remaining tanks (x4),4,50,200,2,2,High

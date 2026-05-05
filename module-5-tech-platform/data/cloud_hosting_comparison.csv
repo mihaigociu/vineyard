@@ -1,0 +1,5 @@
+provider,plan,vcpu,ram_gb,storage_gb,monthly_eur,region,gdpr,recommended
+Hetzner,CX22,2,4,40,3.49,Germany (nbg1/hel1),True,True
+Hetzner,CX32,4,8,80,6.49,Germany (nbg1/hel1),True,False
+Fly.io,shared-cpu-1x,1,0.256,3,1.8,Frankfurt (fra),True,False
+Render,Starter,1,0.512,0,7.0,Frankfurt,True,False

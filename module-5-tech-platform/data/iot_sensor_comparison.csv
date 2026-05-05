@@ -1,0 +1,7 @@
+sensor,manufacturer,price_eur_min,price_eur_max,connectivity,measures,recommended,notes
+Vantage Pro2 cabled ISS,Davis Instruments,540,610,USB/WiFi,T/RH/pressure/rain/wind/solar radiation,True,Add Leaf&Soil Station for leaf wetness; use weewx for MQTT
+iMETOS LoRAIN,Pessl/METOS,548,630,4G GPRS,T/RH/rain/wind/leaf wetness/soil,True,4G built-in; FieldClimate platform with Romanian disease models
+HOBO MX2301A,Onset,80,110,BLE,T/RH only,False,Supplemental micro-climate sensor; BLE download only
+GS3 soil sensor,METER,200,280,SDI-12,VWC + EC + soil temperature,False,Premium; good for loamy Vaslui soils; needs datalogger
+LSE01 soil/VWC node,Dragino,45,65,LoRaWAN,VWC + soil temperature + EC,True,Best DIY option; LoRaWAN native; plug into ChirpStack gateway
+DIY ESP32+LoRa node,DIY (BOM ~€60),50,75,LoRaWAN,T/RH + soil VWC + soil temperature,True,TTGO LoRa32 + DHT22 + capacitive soil sensor; 4-8mo battery

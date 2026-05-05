@@ -1,0 +1,5 @@
+device,price_eur_min,price_eur_max,connectivity,sg_accuracy,battery_weeks,stainless_tank_ok,mqtt_native,recommended
+iSpindel DIY,40,55,WiFi 2.4 GHz,±0.002 SG,4–6 (15min interval),True,True,True
+iSpindel pre-assembled,75,95,WiFi 2.4 GHz,±0.002 SG,4–6 (15min interval),True,True,True
+Tilt Hydrometer,110,130,BLE only,±0.002 SG,~3 months (Tilt Pro),False,False,False
+Tilt Pro,140,155,BLE only,±0.001 SG,~3 months,False,False,False

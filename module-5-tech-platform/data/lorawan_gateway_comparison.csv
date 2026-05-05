@@ -1,0 +1,4 @@
+gateway,manufacturer,price_eur,channels,backhaul,ip_rating,os,recommended
+RAK7289CV2,RAK Wireless,370,8,4G LTE + Ethernet,IP67,Debian Linux + ChirpStack,True
+DLOS8N,Dragino,437,8,4G LTE + Ethernet,IP65,OpenWrt + ChirpStack,False
+RAK5146 PiHAT,RAK Wireless,100,8,Via Raspberry Pi,None,ChirpStack on Pi (DIY),False

@@ -1,0 +1,9 @@
+component,software,licence,monthly_cost_eur,role,docker_arm64,recommended
+MQTT broker,Eclipse Mosquitto 2.0,EPL/EDL (free),0,Receives all sensor MQTT feeds,True,True
+Time-series DB,TimescaleDB 2.14 (PostgreSQL 16),Apache 2 (free),0,Stores sensor readings + vineyard records in same DB,True,True
+Metrics ingest,Telegraf 1.30,MIT (free),0,MQTT input plugin → TimescaleDB/InfluxDB write,True,True
+Dashboard,Grafana OSS 10.4,AGPL (free),0,Real-time monitoring dashboards + alerting,True,True
+App dashboard,Streamlit,Apache 2 (free),0,"Owner-operator daily use; vineyard records, reports",True,True
+API backend,FastAPI + uvicorn,MIT (free),0,REST endpoints; ONVPV export; mobile access,True,True
+Alt time-series DB,InfluxDB v2 OSS,MIT (free),0,Alternative to TimescaleDB; pure time-series only,True,False
+Remote access,Tailscale,Free (up to 100),0,Secure mesh VPN; works behind NAT/CGNAT,True,True

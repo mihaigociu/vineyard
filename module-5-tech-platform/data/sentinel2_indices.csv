@@ -1,0 +1,5 @@
+index,formula,bands,resolution_m,primary_use,healthy_range
+NDVI,(B8-B4)/(B8+B4),"B8 (NIR 842nm), B4 (Red 665nm)",10,Overall canopy vigour,0.5–0.8 healthy mid-season
+NDRE,(B8A-B5)/(B8A+B5),"B8A (865nm), B5 (705nm)",20,Chlorophyll and nitrogen status,0.2–0.5 healthy
+NDWI,(B8A-B11)/(B8A+B11),"B8A (865nm), B11 (SWIR1 1610nm)",20,Canopy water stress,0.1–0.4 no stress
+EVI,2.5*(B8-B4)/(B8+6*B4-7.5*B2+1),"B8, B4, B2 (Blue 490nm)",10,Vigour; reduces soil/atmospheric noise,0.2–0.6 healthy

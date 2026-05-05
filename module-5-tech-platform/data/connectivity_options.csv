@@ -1,0 +1,5 @@
+protocol,range_m_min,range_m_max,power_draw,gateway_cost_eur,monthly_cost_eur,use_case,recommended_for
+WiFi 2.4 GHz,50,100,High (100-300mW),0,0,Fermentation sensors inside winery building,iSpindel tanks; indoor only
+4G LTE,1000,50000,Medium (200mW TX),0,5,Single gateway 4G backhaul to cloud,LoRa gateway uplink; weather station
+LoRaWAN 868,500,2000,Very low (10-50mW),370,1,Multi-node 10 ha outdoor sensor network,All outdoor vineyard sensors; main field network
+Ethernet LAN,100,100,None (passive),50,0,Wired connection inside winery building,"Mini-PC, NAS, critical devices"
